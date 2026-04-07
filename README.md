@@ -1,5 +1,7 @@
 # Civilizational Model Collapse
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19434919.svg)](https://doi.org/10.5281/zenodo.19434919)
+
 **Convergence, Controllability, and the Loss of Adaptive Capacity in Human--AI Systems**
 
 Rajeev Kesana (Independent Researcher, Hyderabad, India)
@@ -7,6 +9,8 @@ with direct AI collaboration from Claude (Anthropic) and Grok (xAI)
 Adversarial peer review by ChatGPT (OpenAI), Gemini (Google DeepMind), and Claude (Anthropic)
 
 April 2026
+
+**DOI:** [10.5281/zenodo.19434919](https://doi.org/10.5281/zenodo.19434919)
 
 ## Abstract
 
